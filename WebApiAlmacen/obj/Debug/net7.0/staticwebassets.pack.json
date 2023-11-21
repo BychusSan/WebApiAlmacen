@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\WebApiAlmacen\\WebApiAlmacen\\WebApiAlmacen\\wwwroot\\Archivo.txt",
+      "PackagePath": "staticwebassets\\Archivo.txt"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\WebApiAlmacen\\WebApiAlmacen\\WebApiAlmacen\\wwwroot\\erroresFilters.txt",
+      "PackagePath": "staticwebassets\\erroresFilters.txt"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\WebApiAlmacen\\WebApiAlmacen\\WebApiAlmacen\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\WebApiAlmacen\\WebApiAlmacen\\WebApiAlmacen\\wwwroot\\log.txt",
+      "PackagePath": "staticwebassets\\log.txt"
+    },
+    {
+      "Id": "C:\\Users\\gasan\\Desktop\\WebApiAlmacen\\WebApiAlmacen\\WebApiAlmacen\\wwwroot\\log2.txt",
+      "PackagePath": "staticwebassets\\log2.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.WebApiAlmacen.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.WebApiAlmacen.props",
+      "PackagePath": "build\\WebApiAlmacen.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApiAlmacen.props",
+      "PackagePath": "buildMultiTargeting\\WebApiAlmacen.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.WebApiAlmacen.props",
+      "PackagePath": "buildTransitive\\WebApiAlmacen.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

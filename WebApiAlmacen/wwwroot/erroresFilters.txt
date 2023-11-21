@@ -1,0 +1,16 @@
+Microsoft.Extensions.DependencyInjection.Abstractions
+Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'WebApiAlmacen.Controllers.FamiliasController'.
+::1 - 16/11/2023 13:38:49 -  /api/Familias - GET
+
+Microsoft.Extensions.DependencyInjection.Abstractions
+Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'WebApiAlmacen.Controllers.FamiliasController'.
+::1 - 16/11/2023 13:39:51 -  /api/Familias - GET
+
+Microsoft.Extensions.DependencyInjection.Abstractions
+Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'WebApiAlmacen.Controllers.FamiliasController'.
+::1 - 16/11/2023 13:40:52 -  /api/Familias - GET
+
+Microsoft.Extensions.DependencyInjection.Abstractions
+Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'WebApiAlmacen.Controllers.FamiliasController'.
+::1 - 16/11/2023 13:43:39 -  /api/Familias - GET
+
